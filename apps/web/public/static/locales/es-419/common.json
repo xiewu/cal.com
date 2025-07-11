@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "No se pudo eliminar el evento del calendario.",
   "already_signed_up_for_this_booking_error": "Ya estás registrado para esta reserva.",
   "hosts_unavailable_for_booking": "Algunos de los anfitriones no están disponibles para la reserva.",
+  "fixed_hosts_unavailable_for_booking": "Algunos de los anfitriones fijos no están disponibles para reservas.",
+  "round_robin_hosts_unavailable_for_booking": "No hay anfitriones de Round Robin disponibles para reservas.",
   "help": "Ayuda",
   "price": "Precio",
   "paid": "Pagado",

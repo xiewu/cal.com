@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "មិនអាចលុបព្រឹត្តិការណ៍ប្រតិទិនបានទេ។",
   "already_signed_up_for_this_booking_error": "អ្នកបានចុះឈ្មោះសម្រាប់ការកក់នេះរួចហើយ។",
   "hosts_unavailable_for_booking": "មេផ្ទះខ្លះមិនអាចកក់បានទេ។",
+  "fixed_hosts_unavailable_for_booking": "ម្ចាស់ផ្ទះដែលបានកំណត់មួយចំនួនមិនអាចធ្វើការកក់បានទេ។",
+  "round_robin_hosts_unavailable_for_booking": "មិនមានម្ចាស់ផ្ទះ Round Robin ដែលអាចធ្វើការកក់បានទេ។",
   "help": "ជំនួយ",
   "price": "តម្លៃ",
   "paid": "បង់ប្រាក់",

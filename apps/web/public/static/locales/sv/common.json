@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Det går inte att ta bort kalenderhändelsen.",
   "already_signed_up_for_this_booking_error": "Du är redan anmäld till denna bokning.",
   "hosts_unavailable_for_booking": "Några av värdarna är inte tillgängliga för bokning.",
+  "fixed_hosts_unavailable_for_booking": "Några av de fasta värdarna är inte tillgängliga för bokning.",
+  "round_robin_hosts_unavailable_for_booking": "Inga Round Robin-värdar är tillgängliga för bokning.",
   "help": "Hjälp",
   "price": "Pris",
   "paid": "Betald",

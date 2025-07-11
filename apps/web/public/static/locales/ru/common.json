@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Не удалось удалить событие в календаре.",
   "already_signed_up_for_this_booking_error": "Вы уже зарегистрированы на это бронирование.",
   "hosts_unavailable_for_booking": "Некоторые из хостов недоступны для бронирования.",
+  "fixed_hosts_unavailable_for_booking": "Некоторые из закрепленных хостов недоступны для бронирования.",
+  "round_robin_hosts_unavailable_for_booking": "Ни один из хостов Round Robin недоступен для бронирования.",
   "help": "Помощь",
   "price": "Цена",
   "paid": "Оплачено",

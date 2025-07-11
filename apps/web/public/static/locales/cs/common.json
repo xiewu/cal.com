@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Nelze smazat událost v kalendáři.",
   "already_signed_up_for_this_booking_error": "Již jste se zaregistrovali na tuto rezervaci.",
   "hosts_unavailable_for_booking": "Někteří hostitelé nejsou k dispozici pro rezervaci.",
+  "fixed_hosts_unavailable_for_booking": "Někteří z pevně stanovených hostitelů nejsou k dispozici pro rezervaci.",
+  "round_robin_hosts_unavailable_for_booking": "Žádný z hostitelů Round Robin není k dispozici pro rezervaci.",
   "help": "Nápověda",
   "price": "Cena",
   "paid": "Zaplaceno",

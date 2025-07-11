@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Không thể xóa sự kiện Lịch.",
   "already_signed_up_for_this_booking_error": "Bạn đã đăng ký cho lần đặt chỗ này.",
   "hosts_unavailable_for_booking": "Một số người tổ chức không khả dụng để đặt chỗ.",
+  "fixed_hosts_unavailable_for_booking": "Một số người chủ trì cố định không khả dụng để đặt lịch.",
+  "round_robin_hosts_unavailable_for_booking": "Không có người chủ trì Luân phiên nào khả dụng để đặt lịch.",
   "help": "Trợ giúp",
   "price": "Giá",
   "paid": "Đã thanh toán",

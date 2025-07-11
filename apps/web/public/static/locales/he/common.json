@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "לא ניתן למחוק אירוע לוח שנה.",
   "already_signed_up_for_this_booking_error": "כבר נרשמת להזמנה הזאת.",
   "hosts_unavailable_for_booking": "חלק מהמארחים לא פנויים להזמנות.",
+  "fixed_hosts_unavailable_for_booking": "חלק מהמארחים הקבועים אינם זמינים להזמנה.",
+  "round_robin_hosts_unavailable_for_booking": "אין מארחים בשיטת הסבב זמינים להזמנה.",
   "help": "עזרה",
   "price": "מחיר",
   "paid": "שולם",

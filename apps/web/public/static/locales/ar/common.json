@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "تعذر حذف الموعد.",
   "already_signed_up_for_this_booking_error": "أنت مسجل فعلًا في هذا الحجز.",
   "hosts_unavailable_for_booking": "بعض المستضيفين غير متاحين للحجز.",
+  "fixed_hosts_unavailable_for_booking": "بعض المضيفين الثابتين غير متاحين للحجز.",
+  "round_robin_hosts_unavailable_for_booking": "لا يوجد مضيفون بنظام التناوب متاحون للحجز.",
   "help": "المساعدة",
   "price": "السعر",
   "paid": "مدفوعة",

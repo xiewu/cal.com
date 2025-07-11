@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "ক্যালেন্ডার ইভেন্ট মুছতে অক্ষম।",
   "already_signed_up_for_this_booking_error": "আপনি ইতিমধ্যে এই বুকিংয়ের জন্য সাইন আপ করেছেন।",
   "hosts_unavailable_for_booking": "কিছু হোস্ট বুকিংয়ের জন্য অনুপলব্ধ।",
+  "fixed_hosts_unavailable_for_booking": "কিছু নির্দিষ্ট হোস্ট বুকিং এর জন্য অনুপলব্ধ।",
+  "round_robin_hosts_unavailable_for_booking": "কোন রাউন্ড রবিন হোস্ট বুকিং এর জন্য উপলব্ধ নেই।",
   "help": "সাহায্য",
   "price": "দাম",
   "paid": "প্রদত্ত",

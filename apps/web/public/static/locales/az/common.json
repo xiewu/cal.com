@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Təqvim hadisəsini silmək mümkün deyil.",
   "already_signed_up_for_this_booking_error": "Siz artıq bu rezervasiya üçün qeydiyyatdan keçmisiniz.",
   "hosts_unavailable_for_booking": "Bəzi ev sahibləri rezervasiya üçün mövcud deyil.",
+  "fixed_hosts_unavailable_for_booking": "Bəzi sabit ev sahibləri rezervasiya üçün əlçatan deyil.",
+  "round_robin_hosts_unavailable_for_booking": "Rezervasiya üçün heç bir Növbəli ev sahibi mövcud deyil.",
   "help": "Kömək",
   "price": "Qiymət",
   "paid": "Ödənilib",

@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Kan de agenda-afspraak niet verwijderen.",
   "already_signed_up_for_this_booking_error": "Je bent al ingeschreven voor deze boeking.",
   "hosts_unavailable_for_booking": "Sommige hosts zijn niet beschikbaar voor boeking.",
+  "fixed_hosts_unavailable_for_booking": "Sommige vaste hosts zijn niet beschikbaar voor boekingen.",
+  "round_robin_hosts_unavailable_for_booking": "Geen Round Robin hosts beschikbaar voor boekingen.",
   "help": "Help",
   "price": "Prijs",
   "paid": "Betaald",

@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "No s'ha pogut eliminar l'esdeveniment del calendari",
   "already_signed_up_for_this_booking_error": "Ja t'has registrat per a aquesta reserva",
   "hosts_unavailable_for_booking": "Alguns dels amfitrions no estan disponibles per a la reserva",
+  "fixed_hosts_unavailable_for_booking": "Alguns dels amfitrions fixos no estan disponibles per a reserves.",
+  "round_robin_hosts_unavailable_for_booking": "Cap amfitrió de Round Robin està disponible per a reserves.",
   "help": "Ajuda",
   "price": "Preu",
   "paid": "Pagat",

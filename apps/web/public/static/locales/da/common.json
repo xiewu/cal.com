@@ -116,6 +116,8 @@
   "delete_calendar_event_error": "Kan ikke slette kalenderbegivenhed.",
   "already_signed_up_for_this_booking_error": "Du er allerede tilmeldt denne booking.",
   "hosts_unavailable_for_booking": "Nogle af værterne er ikke tilgængelige for booking.",
+  "fixed_hosts_unavailable_for_booking": "Nogle af de faste værter er ikke tilgængelige for booking.",
+  "round_robin_hosts_unavailable_for_booking": "Ingen Round Robin-værter er tilgængelige for booking.",
   "help": "Hjælp",
   "price": "Pris",
   "paid": "Betalt",
