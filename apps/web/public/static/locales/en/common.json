@@ -3372,5 +3372,6 @@
   "link_expired_on_date": "This link expired on {{date}}",
   "usage_limit_reached": "Usage limit reached",
   "usage_count_error": "Maximum usage count must be greater than current usage count",
+  "private_link_expired": "This link has expired",
   "ADD_NEW_STRINGS_ABOVE_THIS_LINE_TO_PREVENT_MERGE_CONFLICTS": "↑↑↑↑↑↑↑↑↑↑↑↑↑ Add your new strings above here ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑"
 }
